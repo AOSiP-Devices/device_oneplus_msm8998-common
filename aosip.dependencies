@@ -1,16 +1,17 @@
 [
   {
+    "repository": "whoknowswhoiam/weebmsm8998-pie",
+    "target_path": "kernel/oneplus/msm8998",
+    "branch": "pie"
+  },
+  {
     "repository": "TheMuppets/proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "branch": "lineage-16.0"
   },
   {
-    "repository": "device_oppo_common",
-    "target_path": "device/oppo/common"
-  },
-  {
-    "repository": "whoknowswhoiam/weebmsm8998-pie",
-    "target_path": "kernel/oneplus/msm8998",
-    "branch": "pie"
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
   }
 ]
