@@ -32,7 +32,6 @@
     <string name="off_mode_title">Выкл</string>
     <string name="tile_panel_mode">Режим панелей</string>
     <string name="tile_hbm_mode">Режимы высокой яркости</string>
-    <string name="tile_dc_mode">DC-Dimming</string>
     <!-- Notification slider -->
     <string name="notification_slider_category_title">Слайдер уведомлений</string>
     <string name="notification_slider_selection_dialog_title">Действие</string>
@@ -50,8 +49,4 @@
     <string name="category_vibrator">Вибрация</string>
     <string name="vib_strength_title_head">Общая</string>
     <string name="vib_strength_summary_head">Установить интенсивность общей вибрации</string>
-    <string name="vib_call_strength_title_head">Вызовы</string>
-    <string name="vib_call_strength_summary_head">Установить интенсивность вибрации при входящем звонке</string>
-    <string name="vib_notif_strength_title_head">Уведомления</string>
-    <string name="vib_notif_strength_summary_head">Установить интенсивность вибрации при входящем уведомлении</string>
 </resources>

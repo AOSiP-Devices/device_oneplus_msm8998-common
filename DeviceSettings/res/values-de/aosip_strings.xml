@@ -32,7 +32,6 @@
     <string name="off_mode_title">Aus</string>
     <string name="tile_panel_mode">Panelmodus</string>
     <string name="tile_hbm_mode">Hohe Helligkeit Modis</string>
-    <string name="tile_dc_mode">DC-Dimming</string>
     <!-- Notification slider -->
     <string name="notification_slider_category_title">Benachrichtigungs-Slider</string>
     <string name="notification_slider_selection_dialog_title">Aktion</string>
@@ -50,8 +49,4 @@
     <string name="category_vibrator">Vibration</string>
     <string name="vib_strength_title_head">Vibrationsstärke des Systems</string>
     <string name="vib_strength_summary_head">Stärke der Vibration einstellen</string>
-    <string name="vib_call_strength_title_head">Vibrationsstärke bei Anruf</string>
-    <string name="vib_call_strength_summary_head">Stärke der Vibration bei eingehendem Anruf einstellen</string>
-    <string name="vib_notif_strength_title_head">Vibrationsstärke bei Benachrichtigungen</string>
-    <string name="vib_notif_strength_summary_head">Stärke der Vibration bei eingehender Nachricht einstellen</string>
 </resources>

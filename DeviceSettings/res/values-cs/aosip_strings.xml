@@ -32,7 +32,6 @@
     <string name="off_mode_title">Vyp.</string>
     <string name="tile_panel_mode">Režimy panelu</string>
     <string name="tile_hbm_mode">Režimy vysokého jasu</string>
-    <string name="tile_dc_mode">DC – Ztlumení</string>
     <!-- Notification slider -->
     <string name="notification_slider_category_title">Posuvník oznámení</string>
     <string name="notification_slider_selection_dialog_title">Akce</string>
@@ -50,8 +49,4 @@
     <string name="category_vibrator">Vibrace</string>
     <string name="vib_strength_title_head">Síla systémových vibrací</string>
     <string name="vib_strength_summary_head">Definovat sílu vibrací</string>
-    <string name="vib_call_strength_title_head">Síla vibrací při volání</string>
-    <string name="vib_call_strength_summary_head">Definovat sílu vibrací při příchozím volání</string>
-    <string name="vib_notif_strength_title_head">Síla vibrací při oznámení</string>
-    <string name="vib_notif_strength_summary_head">Definovat sílu vibrací při příchozím oznámení</string>
 </resources>

@@ -32,7 +32,6 @@
     <string name="off_mode_title">关闭</string>
     <string name="tile_panel_mode">面板模式</string>
     <string name="tile_hbm_mode">高亮度模式</string>
-    <string name="tile_dc_mode">DC-Dimming</string>
     <!-- Notification slider -->
     <string name="notification_slider_category_title">通知滑块</string>
     <string name="notification_slider_selection_dialog_title">操作</string>
@@ -50,8 +49,4 @@
     <string name="category_vibrator">振动</string>
     <string name="vib_strength_title_head">系统强度</string>
     <string name="vib_strength_summary_head">自定义振动强度</string>
-    <string name="vib_call_strength_title_head">通话强度</string>
-    <string name="vib_call_strength_summary_head">在来电期间定义振动器的强度</string>
-    <string name="vib_notif_strength_title_head">通知强度</string>
-    <string name="vib_notif_strength_summary_head">在通知期间定义振动器的强度</string>
 </resources>

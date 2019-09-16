@@ -32,7 +32,6 @@
     <string name="off_mode_title">Desligado</string>
     <string name="tile_panel_mode">Modos de painel</string>
     <string name="tile_hbm_mode">Modos de brilho alto</string>
-    <string name="tile_dc_mode">DC-Dimming</string>
     <!-- Notification slider -->
     <string name="notification_slider_category_title">Deslizador de notificações</string>
     <string name="notification_slider_selection_dialog_title">Ação</string>
@@ -50,8 +49,4 @@
     <string name="category_vibrator">Vibração</string>
     <string name="vib_strength_title_head">Vibração do Sistema</string>
     <string name="vib_strength_summary_head">Definir força de vibração</string>
-    <string name="vib_call_strength_title_head">Vibração de chamada</string>
-    <string name="vib_call_strength_summary_head">Definir força de vibração durante chamada</string>
-    <string name="vib_notif_strength_title_head">Vibração da Notificação</string>
-    <string name="vib_notif_strength_summary_head">Definir força de vibração durante notificação</string>
 </resources>

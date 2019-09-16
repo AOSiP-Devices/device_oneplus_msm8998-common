@@ -32,7 +32,6 @@
     <string name="off_mode_title">Apagado</string>
     <string name="tile_panel_mode">Modos de panel</string>
     <string name="tile_hbm_mode">Modos de alto brillo</string>
-    <string name="tile_dc_mode">Ajuste de Brillo alternativo [DC-Diming]</string>
     <!-- Notification slider -->
     <string name="notification_slider_category_title">Control deslizante de notificaciones</string>
     <string name="notification_slider_selection_dialog_title">Acción</string>
@@ -50,8 +49,4 @@
     <string name="category_vibrator">Vibrador</string>
     <string name="vib_strength_title_head">Intensidad del sistema</string>
     <string name="vib_strength_summary_head">Definir la intensidad de la vibración</string>
-    <string name="vib_call_strength_title_head">Intensidad de la llamada</string>
-    <string name="vib_call_strength_summary_head">Definir la intensidad de la vibración durante una llamada entrante</string>
-    <string name="vib_notif_strength_title_head">Intensidad de las notificaciones</string>
-    <string name="vib_notif_strength_summary_head">Definir la intensidad de la vibración durante una notificación entrante</string>
 </resources>

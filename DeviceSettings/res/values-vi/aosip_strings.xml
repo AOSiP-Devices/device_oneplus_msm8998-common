@@ -32,7 +32,6 @@
     <string name="off_mode_title">Tắt</string>
     <string name="tile_panel_mode">Chế độ Màn hình</string>
     <string name="tile_hbm_mode">Chế độ Độ sáng cao</string>
-    <string name="tile_dc_mode">DC - Làm mờ</string>
     <!-- Notification slider -->
     <string name="notification_slider_category_title">Thanh trượt thông báo</string>
     <string name="notification_slider_selection_dialog_title">Hành động</string>
@@ -50,8 +49,4 @@
     <string name="category_vibrator">Bộ rung</string>
     <string name="vib_strength_title_head">Cường độ rung: Hệ thống</string>
     <string name="vib_strength_summary_head">Chọn độ mạnh của bộ rung</string>
-    <string name="vib_call_strength_title_head">Cường độ rung: Cuộc gọi</string>
-    <string name="vib_call_strength_summary_head">Chọn độ mạnh của bộ rung khi có cuộc gọi đến</string>
-    <string name="vib_notif_strength_title_head">Cường độ rung: Thông báo</string>
-    <string name="vib_notif_strength_summary_head">Chọn độ mạnh của bộ rung khi có thông báo</string>
 </resources>

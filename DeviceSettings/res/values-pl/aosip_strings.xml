@@ -32,7 +32,6 @@
     <string name="off_mode_title">Wyłącz</string>
     <string name="tile_panel_mode">Tryby panelu</string>
     <string name="tile_hbm_mode">Tryb wysokiej jasności</string>
-    <string name="tile_dc_mode">Tryb zmniejszania napięcia wyświetlacza</string>
     <!-- Notification slider -->
     <string name="notification_slider_category_title">Suwak powiadomień</string>
     <string name="notification_slider_selection_dialog_title">Akcja</string>
@@ -50,8 +49,4 @@
     <string name="category_vibrator">Wibracje</string>
     <string name="vib_strength_title_head">Siła wibracji</string>
     <string name="vib_strength_summary_head">Zdefiniuj siłę wibracji</string>
-    <string name="vib_call_strength_title_head">Siła wibracji połączeń</string>
-    <string name="vib_call_strength_summary_head">Określ siłę wibracji podczas połączenia przychodzącego</string>
-    <string name="vib_notif_strength_title_head">Siła wibracji powiadomień</string>
-    <string name="vib_notif_strength_summary_head">Określ siłę wibracji podczas wyskakującego powiadomienia</string>
 </resources>
