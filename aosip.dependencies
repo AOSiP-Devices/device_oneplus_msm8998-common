@@ -1,8 +1,7 @@
 [
   {
-    "repository": "RaphielGang/android_kernel_oneplus_msm8998",
-    "target_path": "kernel/oneplus/msm8998",
-    "branch": "pie-r2"
+    "repository": "kernel_oneplus_msm8998",
+    "target_path": "kernel/oneplus/msm8998"
   },
   {
     "repository": "TheMuppets/proprietary_vendor_oneplus",
