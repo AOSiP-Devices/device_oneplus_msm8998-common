@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "RaphielGang/android_kernel_oneplus_msm8998",
+    "target_path": "kernel/oneplus/msm8998",
+    "revision": "master"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "revision": "lineage-17.1"
+  },
+  {
+    "remote": "github",
+    "repository": "Felvesthe/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "revision": "android-10"
+  }
+]
