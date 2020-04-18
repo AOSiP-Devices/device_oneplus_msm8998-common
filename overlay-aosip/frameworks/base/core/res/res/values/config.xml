@@ -53,4 +53,8 @@
         <item>com.derp.device.DeviceSettings.TouchKeyHandler</item>
     </string-array>
 
+    <!-- Burn in protection -->
+    <bool name="config_statusBarBurnInProtection">true</bool>
+    <integer name="config_shift_interval">40</integer>
+
 </resources>
