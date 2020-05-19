@@ -18,6 +18,8 @@ on boot
     chmod 0666 /sys/devices/virtual/graphics/fb0/adaption_mode
     chmod 0666 /sys/devices/virtual/graphics/fb0/measured_fps
 
+    chmod 0666 /proc/flicker_free/flicker_free
+
 on property:sys.srgb=1
    write /sys/devices/virtual/graphics/fb0/srgb 1
 
