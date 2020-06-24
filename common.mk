@@ -451,6 +451,10 @@ PRODUCT_SHIPPING_API_LEVEL := 25
 PRODUCT_SOONG_NAMESPACES += \
     device/oneplus/msm8998-common
 
+# Touch
+PRODUCT_PACKAGES += \
+    vendor.lineage.touch@1.0-service.oneplus_msm8998
+
 # Tetheroffload
 PRODUCT_PACKAGES += \
     ipacm \
