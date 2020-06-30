@@ -2,7 +2,7 @@
   {
     "repository"  : "op5-q/kernel_oneplus_msm8998",
     "target_path" : "kernel/oneplus/msm8998",
-    "branch": "ten-test",
+    "branch": "ten",
     "remote": "github"
   },
   {
